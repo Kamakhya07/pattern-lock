@@ -51,3 +51,16 @@ This project is developed as an **academic AIML project** demonstrating the appl
 ---
 
 ## 📂 Project Structure
+pattern-lock/
+│
+├── pattern_main_app.py          # Main application (run this file)
+├── pattern_train_model.py       # Script to train the ML model
+├── pattern_backend_logic.py     # Pattern capture & feature extraction logic
+│
+├── pattern_training_data.csv    # Generated training data (timing features)
+├── pattern_user_credentials.csv # Registered user details
+│
+├── README.md                    # Project documentation
+│
+├── venv/                        # Virtual environment (not pushed to G
+
